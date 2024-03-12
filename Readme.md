@@ -2,9 +2,9 @@
 
 <h4>Ashish Yadav</h4>
 
-- 🔭 I’m currently working on a React Native Projects
-- 🌱 I’m Interested to work on mobile application creation.
-- 👯 I’m making the user experience better by user friendly mobile applications.
+- 🔭 I'm currently working on React Native projects.
+- 🌱 I'm interested in working on the creation of mobile applications.
+- 👯 I'm making the user experience better by developing user-friendly mobile applications.
 - 💬 Ask me about Technology
 - 📫 How to reach me: mailto:ashishyadav031001@gmail.com , Phone +91 9730592488
 
@@ -23,9 +23,7 @@ src="https://img.shields.io/github/followers/ashish03-git?logo=github&style=for-
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-vertical.svg" alt="firebase" width="40" height="40"/>  </p>
 
-# Badges
 
-https://holopin.me/ashish03-git](https://holopin.io/@ashish03-git)
 
 <b>My GitHub Stats</b>
 
