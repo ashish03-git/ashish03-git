@@ -1,13 +1,12 @@
-#  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashish Yadav
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashish Yadav
 
 <h4>Ashish Yadav</h4>
 
-- 🔭 I’m currently working on a Node js Project
-- 🌱 I’m Interested to work on web automation and web scraping
-- 👯 I’m making the world better by web scraping project
+- 🔭 I’m currently working on a React Native Projects
+- 🌱 I’m Interested to work on mobile application creation.
+- 👯 I’m making the user experience better by user friendly mobile applications.
 - 💬 Ask me about Technology
 - 📫 How to reach me: mailto:ashishyadav031001@gmail.com , Phone +91 9730592488
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/ashish03-git" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ashish03-git?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -18,9 +17,11 @@ src="https://img.shields.io/github/followers/ashish03-git?logo=github&style=for-
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </p>
 
 <h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-built_white.svg" alt="firebase" width="40" height="40"/>  </p>
 
 # Badges
 
